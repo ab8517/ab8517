@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ab8517
+- 👋 Hi, I’m @ab8517, Achim
 - 👀 I’m interested in Git, Github and Java
 - 🌱 I’m currently learning Git, Github and Java
-- 💞️ I’m looking to collaborate on anything fun
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me achimbrecht99@gmx.de
 
 <!---
